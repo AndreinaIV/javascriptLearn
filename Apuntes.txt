@@ -1,0 +1,54 @@
+Javascript Base -------------------------------------
+
+- Terminar Section 08 Arrays
+
+- Section 09 Functions
+    58
+    60
+    62
+    63
+    65
+
+- Section 10 Estructuras de control
+    71
+    74
+    76
+    77
+
+- Section 11 Iteradores
+    80
+    81
+    82
+    83
+    85
+
+- Section 12 Arrays
+    89
+    91
+    93
+----------------------------------
+
+WEB 
+    Informacion general HTML (no necesitas memorizarla, solo leerla)
+
+        html introduccion -> https://www.aprenderaprogramar.com/index.php?option=com_content&view=article&id=429:introduccion-a-html-internet-y-los-flujos-de-informacion-estructura-cliente-servidor-navegador-cu00703b&catid=69&Itemid=192
+        para que html -> https://www.aprenderaprogramar.com/index.php?option=com_content&view=article&id=435:ique-es-y-para-que-sirve-html-el-lenguaje-mas-importante-para-crear-paginas-webs-html-tags-cu00704b&catid=69&Itemid=192
+        lenguaje html -> https://www.aprenderaprogramar.com/index.php?option=com_content&view=article&id=439:html-iun-lenguaje-de-programacion-ejemplo-concepto-lenguaje-de-etiquetas-vs-programacion-cu00705b&catid=69&Itemid=192
+        usar html -> https://www.aprenderaprogramar.com/index.php?option=com_content&view=article&id=444:icuales-son-las-versiones-de-html-diferencias-entre-html-4-y-html-5-significado-de-strict-cu00706b&catid=69&Itemid=192
+
+    Ahora si a tirar codigo HTML
+        https://www.tutorialesprogramacionya.com/htmlya/index.php?inicio=0
+
+    Informacion General CSS (no necesitas memorizarla, solo leerla)
+        https://openwebinars.net/blog/que-es-css/
+
+    Ahora si a tirar codigo CSS
+        https://www.tutorialesprogramacionya.com/cssya/index.php?inicio=0
+
+    Como funciona todo (no necesitas memorizar, solo verlo)
+        https://youtu.be/qk-Ate4y2yQ?t=169
+alpopular
+
+
+
+
